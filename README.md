@@ -8,80 +8,116 @@
 
 Building immersive experiences through AR, VR, and Artificial Intelligence.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=650&lines=XR+Developer;Unity+Developer;AI+Explorer;Building+Immersive+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=650&lines=XR+Developer;Unity+Developer;AI+Explorer;Building+Immersive+Experiences;Always+Learning+Something+New"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=CRIMBER&style=flat-square&color=red)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm **Taufiq**, a developer passionate about building immersive digital experiences.
+```yaml
+Name: Taufiq
+Alias: CRIMBER
+Location: Chennai, India
 
-- 🥽 Developing AR & VR applications with Unity
-- 🤖 Exploring AI-powered interactive systems
-- 🎮 Interested in XR, Game Development, and Human-Computer Interaction
-- 🌱 Currently learning Blender, XR Interaction Toolkit, and advanced Unity workflows
-- 📍 Chennai, India
+Interests:
+  - XR
+  - Virtual Reality
+  - Augmented Reality
+  - Artificial Intelligence
+  - Unity Development
 
----
-
-## ⚡ Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,blender,git,github,vscode,visualstudio" />
-</p>
+Currently Learning:
+  - XR Interaction Toolkit
+  - Blender
+  - Advanced Unity
+```
 
 ---
 
-## 🚀 Current Focus
-
-- Building immersive XR experiences
-- Participating in Hackathons
-- Exploring AI + XR integrations
-- Contributing to Open Source
-
----
-
-## 📊 GitHub Stats
+# ⚡ Tech Arsenal
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,blender,git,github,vscode,visualstudio&perline=5"/>
+</p>
+
+---
+
+# 🚀 Current Mission
+
+- 🥽 Building immersive XR applications
+- 🎮 Developing projects with Unity
+- 🤖 Exploring AI-powered interactive systems
+- 🏆 Participating in Hackathons
+- 📚 Contributing to Open Source
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=CRIMBER&show_icons=true&theme=transparent&hide_border=true&title_color=E11D48&icon_color=E11D48&text_color=FFFFFF"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRIMBER&layout=compact&theme=transparent&hide_border=true&title_color=E11D48&text_color=FFFFFF"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=CRIMBER&theme=transparent&hide_border=true&ring=E11D48&fire=E11D48&currStreakLabel=E11D48"/>
 
-</p>
+</div>
 
 ---
 
-## 📫 Connect
+# 📈 Contribution Graph
 
-<p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CRIMBER&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CRIMBER&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🥽 XR Projects | Immersive AR & VR Experiences |
+| 🤖 AI Projects | Intelligent Interactive Systems |
+| 🎮 Unity Games | Game Development Experiments |
+| 📚 Research | AI & XR Research Work |
+
+---
+
+# 📫 Connect
+
+<p align="center">
 
 <a href="https://github.com/CRIMBER">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add LinkedIn later -->
+<!-- Add LinkedIn Later -->
 
 </p>
 
@@ -89,6 +125,8 @@ I'm **Taufiq**, a developer passionate about building immersive digital experien
 
 <div align="center">
 
-*"Stay curious. Keep building."*
+### "Stay Curious. Keep Building."
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=120&section=footer"/>
