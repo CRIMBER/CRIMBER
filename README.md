@@ -1,90 +1,134 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=220&section=header&text=CRIMBER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Taufiq%20•%20XR%20Developer%20•%20Unity%20Developer%20•%20AI%20Explorer&descAlignY=55"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=E11D48&center=true&vCenter=true&width=700&lines=Building+Immersive+Experiences;XR+Developer;Unity+Developer;AI+Explorer;Always+Learning+Something+New)](https://git.io/typing-svg)
-
+  <img src="crimber_animated_banner.gif" alt="CRIMBER — warm ink, drifting particles and amber light" width="100%" />
 </div>
-
----
-
-# 👨‍💻 About
-
-Hi, I'm **Taufiq**, also known as **CRIMBER**.
-
-I'm passionate about creating immersive digital experiences through **Virtual Reality**, **Augmented Reality**, and **Artificial Intelligence**.
-
-Currently exploring the intersection of immersive technology, intelligent systems, and interactive design.
-
----
-
-# ⚡ Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,blender,git,github,vscode,visualstudio&perline=5"/>
-
-</p>
-
----
-
-# 🚀 Current Mission
-
-- 🥽 Building immersive XR experiences
-- 🤖 Exploring AI-powered interactive systems
-- 🎮 Developing projects using Unity
-- 🏆 Participating in Hackathons
-- 📚 Learning something new every day
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CRIMBER&show_icons=true&theme=transparent&hide_border=true&title_color=E11D48&icon_color=E11D48"/>
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRIMBER&layout=compact&theme=transparent&hide_border=true&title_color=E11D48"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3200&pause=1300&color=C9A783&center=true&vCenter=true&width=520&height=35&lines=Software+Engineering;Artificial+Intelligence+%26+ML;Unity+%26+Interactive+Worlds;Research+%26+Experiments)](https://github.com/CRIMBER)
+
+*Mohamed Taufiq · CSE (AI & ML) Undergraduate*
+
+[GitHub](https://github.com/CRIMBER) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
+
+---
+
+## A little about me
+
+I'm a computer science undergraduate interested in the intersection of **technology, systems, and creativity**.
+
+I enjoy building software, exploring AI and machine learning, creating games and interactive experiences with Unity, and experimenting with ideas that push beyond the usual boundaries.
+
+My interests don't fit into a single box, and I don't want them to. I like the process of taking an idea, figuring out how it could work, and turning it into something tangible.
+
+This profile is where I document that process — projects, experiments, discoveries, and everything I learn along the way.
+
+## Things I build and explore
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Software engineering
+
+Applications, web projects, developer tools, and the systems that bring ideas to life.
+
+</td>
+<td width="50%" valign="top">
+
+### AI & machine learning
+
+Predictive models, intelligent applications, and experiments with data-driven systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Unity & XR
+
+Games, interactive environments, immersive experiences, and digital worlds.
+
+</td>
+<td width="50%" valign="top">
+
+### Research & experimentation
+
+Technical concepts, unconventional ideas, system architecture, and prototypes.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected work
+
+A few projects from my ongoing journey of building and experimenting.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**STELLO**
+
+An experimental project exploring ideas in software and AI.
+
+[Explore repositories ↗](https://github.com/CRIMBER?tab=repositories)
+
+</td>
+<td width="33%" valign="top">
+
+**Portfolio Builder**
+
+Exploring how digital portfolios can be created and presented.
+
+[Explore repositories ↗](https://github.com/CRIMBER?tab=repositories)
+
+</td>
+<td width="33%" valign="top">
+
+**DNS**
+
+A networking-related project exploring DNS concepts.
+
+[Explore repositories ↗](https://github.com/CRIMBER?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[Explore all projects →](https://github.com/CRIMBER?tab=repositories)
+
+</div>
+
+---
+
+## Currently exploring
+
+- Building practical software projects and strengthening engineering fundamentals
+- Applying AI/ML concepts to real problems
+- Continuing to create with Unity and game technologies
+- Turning research ideas into experiments and prototypes
 
 ---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=CRIMBER&theme=transparent&hide_border=true&ring=E11D48&fire=E11D48"/>
+*Different disciplines. One creative mindset.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-CRIMBER-29211D?style=flat-square&logo=github&logoColor=E8C7A5)](https://github.com/CRIMBER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-29211D?style=flat-square&logo=linkedin&logoColor=D9A477)](https://www.linkedin.com/)
+
+<br/>
+
+*Still learning. Always making something.*
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🥽 XR Projects | AR & VR Experiences |
-| 🤖 AI Projects | Intelligent Applications |
-| 🎮 Unity Games | Interactive Experiences |
-| 📄 Research | AI & XR Research |
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://github.com/CRIMBER">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-*"Stay Curious. Keep Building."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E11D48&height=120&section=footer"/>
