@@ -77,7 +77,7 @@ A few projects from my ongoing journey of building and experimenting.
 
 An experimental project exploring ideas in software and AI.
 
-[Explore repositories ↗](https://github.com/CRIMBER?tab=repositories)
+[Explore repositories ↗](https://github.com/CRIMBER/stello)
 
 </td>
 <td width="33%" valign="top">
@@ -86,7 +86,7 @@ An experimental project exploring ideas in software and AI.
 
 Exploring how digital portfolios can be created and presented.
 
-[Explore repositories ↗](https://github.com/CRIMBER?tab=repositories)
+[Explore repositories ↗]()
 
 </td>
 <td width="33%" valign="top">
@@ -95,7 +95,7 @@ Exploring how digital portfolios can be created and presented.
 
 A networking-related project exploring DNS concepts.
 
-[Explore repositories ↗](https://github.com/CRIMBER?tab=repositories)
+[Explore repositories ↗](https://github.com/CRIMBER/DNS-SECURITY-PLATOFRM)
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ A networking-related project exploring DNS concepts.
 
 <div align="center">
 
-[Explore all projects →](https://github.com/CRIMBER?tab=repositories)
+[Explore all projects →](https://github.com/CRIMBER/portfolo)
 
 </div>
 
