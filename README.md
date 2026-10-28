@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="crimber_animated_banner.gif" alt="CRIMBER — warm ink, drifting particles and amber light" width="100%" />
+  <img src="crimber_animated_banner.gif" alt="CRIMBER — warm ink and amber animated banner" width="100%" />
 </div>
 
 <div align="center">
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3200&pause=1300&color=C9A783&center=true&vCenter=true&width=520&height=35&lines=Software+Engineering;Artificial+Intelligence+%26+ML;Unity+%26+Interactive+Worlds;Research+%26+Experiments)](https://github.com/CRIMBER)
 
@@ -16,17 +14,17 @@
 
 ---
 
-## A little about me
+## About
 
 I'm a computer science undergraduate interested in the intersection of **technology, systems, and creativity**.
 
-I enjoy building software, exploring AI and machine learning, creating games and interactive experiences with Unity, and experimenting with ideas that push beyond the usual boundaries.
+I enjoy building software, exploring artificial intelligence and machine learning, creating games and interactive experiences with Unity, and experimenting with ideas that push beyond the usual boundaries.
 
-My interests don't fit into a single box, and I don't want them to. I like the process of taking an idea, figuring out how it could work, and turning it into something tangible.
+My interests don't fit into a single box, and I don't want them to. I like taking an idea, figuring out how it could work, and turning it into something tangible.
 
 This profile is where I document that process — projects, experiments, discoveries, and everything I learn along the way.
 
-## Things I build and explore
+## What I explore
 
 <table>
 <tr>
@@ -67,35 +65,33 @@ Technical concepts, unconventional ideas, system architecture, and prototypes.
 
 ## Selected work
 
-A few projects from my ongoing journey of building and experimenting.
-
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**STELLO**
+### STELLO
 
-An experimental project exploring ideas in software and AI.
+An experimental project exploring software and AI.
 
-[Explore repositories ↗](https://github.com/CRIMBER/stello)
-
-</td>
-<td width="33%" valign="top">
-
-**Portfolio Builder**
-
-Exploring how digital portfolios can be created and presented.
-
-[Explore repositories ↗]()
+[**Explore repository ↗**](https://github.com/CRIMBER/stello)
 
 </td>
 <td width="33%" valign="top">
 
-**DNS**
+### Portfolo
 
-A networking-related project exploring DNS concepts.
+A project focused on portfolio creation and presentation.
 
-[Explore repositories ↗](https://github.com/CRIMBER/DNS-SECURITY-PLATOFRM)
+[**Explore repository ↗**](https://github.com/CRIMBER/portfolo)
+
+</td>
+<td width="33%" valign="top">
+
+### DNS Security Platform
+
+A project exploring DNS security and networking.
+
+[**Explore repository ↗**](https://github.com/CRIMBER/DNS-SECURITY-PLATOFRM)
 
 </td>
 </tr>
@@ -103,7 +99,7 @@ A networking-related project exploring DNS concepts.
 
 <div align="center">
 
-[Explore all projects →](https://github.com/CRIMBER/portfolo)
+[View all repositories →](https://github.com/CRIMBER?tab=repositories)
 
 </div>
 
